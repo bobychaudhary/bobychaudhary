@@ -116,25 +116,25 @@ Meticulous and motivated undergraduate student , indulged in competitive program
       <br>Firebase
     </td>
     <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#bobychaudhary">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
       </a>
       <br>WordPress
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
+      <a href="#bobychaudhary" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
+      <a href="#bobychaudhary" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
+      <a href="#bobychaudhary" >
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
@@ -142,7 +142,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
   </tr>
    <tr>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#bobychaudhary">
         <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind
