@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Half Stack developer</h3>
 
 Meticulous and motivated undergraduate student , indulged in competitive programming,my field of interest is Computer Vision and my B-Tech is focused in Computer Science.I am an open-source enthusiast.
+  
+![](https://komarev.com/ghpvc/?username=bobychaudhary&color=grey)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=bobychaudhary&row=1&theme=onedark&margin-w=15&margin-h=15&no-frame=true)
 </br>
@@ -148,7 +150,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
       <br>TailWind
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#bobychaudhary">
         <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
@@ -160,25 +162,25 @@ Meticulous and motivated undergraduate student , indulged in competitive program
       <br>Figma
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#bobychaudhary>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
       </a>
       <br>Tensorflow
     </td>
     <td align="center" width="96">
-      <a href="#suhailakar-tech">
+      <a href="#bobychaudhary">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
       <br>Material UI
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#bobychaudhary">
         <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
       </a>
       <br>Flask
     </td>
      <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
+      <a href="#bobychaudhary" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
