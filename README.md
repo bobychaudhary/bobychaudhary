@@ -203,7 +203,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 
   <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bobychaudhary&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=fff&text_color=ddd&icon_color=1CADFB&bg_color=0F2D3D&include_all_commits=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bobychaudhary&theme=dark">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobychaudhary&theme=dark"> -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=bobychaudhary&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0F2D3D&stroke=1CADFB&ring=1CADFB&fire=1CADFB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1CADFB&border=DDDDDD00&sideLabels=DDDDDD&dates=CCCCCC" />
 </p>
 
