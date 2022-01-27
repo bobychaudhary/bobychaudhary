@@ -199,7 +199,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
     </td>
   </tr>
 
-</table>
+</table> 
 
   <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bobychaudhary&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=fff&text_color=ddd&icon_color=1CADFB&bg_color=0F2D3D&include_all_commits=true" />
