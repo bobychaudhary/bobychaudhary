@@ -12,7 +12,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 
 - 👯 I’m looking to collaborate on **React**
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me: **bobychaudhary708@gmail.com**
 
