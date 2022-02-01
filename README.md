@@ -17,7 +17,9 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 
 - 📫 How to reach me: **bobychaudhary708@gmail.com**
 
-- Ask me about anything [here](https://github.com/bobychaudhary/bobychaudhary/issues)
+- 🖋️ I sometimes do blogging on [Kubernetes](https://hashnode.com/@bobychaudhary) 
+
+- 🙋‍♂️ Ask me about anything [here](https://github.com/bobychaudhary/bobychaudhary/issues)
 
 <h3 align="left">Feel free reaching out to me at following platforms::</h3>
 
