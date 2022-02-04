@@ -210,6 +210,6 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 </p>
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=bobychaudhary&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-<p><img  src="https://c.tenor.com/jp_oNluNgeAAAAAC/linux-sudo-apt.gif" height=450 width=450></p>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=bobychaudhary&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"> -->
+<p><img  src="https://c.tenor.com/jp_oNluNgeAAAAAC/linux-sudo-apt.gif" height=450 width=450></p> 
  
