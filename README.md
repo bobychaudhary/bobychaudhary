@@ -8,9 +8,9 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=bobychaudhary&row=1&theme=onedark&margin-w=15&margin-h=15&no-frame=true)
 </br>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 👯 I’m looking to collaborate on **React**
+- 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **DevOps**
 
