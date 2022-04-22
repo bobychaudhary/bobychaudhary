@@ -1,8 +1,8 @@
 
 <h1 align="center">Hello, folks! 
-<h3 align="center">A passionate Half Stack developer</h3>
+<h3 align="center">A passionate DevOps Engineer</h3>
 
-Meticulous and motivated undergraduate student , indulged in competitive programming,my field of interest is Computer Vision and my B-Tech is focused in Computer Science.I am an open-source enthusiast.
+Meticulous and motivated undergraduate student , indulged in competitive programming,my field of interest is Computer Vision and my B-Tech is focused in Computer Science.I am an open-source enthusiast, and currently working around DevOps tools.
   
 ![](https://komarev.com/ghpvc/?username=bobychaudhary&color=grey)
 
@@ -17,7 +17,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 
 - 📫 How to reach me: **bobychaudhary708@gmail.com**
 
-- 🖋️ I sometimes do blogging on [Kubernetes](https://hashnode.com/@bobychaudhary) 
+- 🖋️ I sometimes do blogging on [DevOps Tools](https://hashnode.com/@bobychaudhary) 
 
 - 🙋‍♂️ Ask me about anything [here](https://github.com/bobychaudhary/bobychaudhary/issues)
 
